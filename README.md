@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sakhardande.d@northeastern.edu**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshs25-mle&show_icons=true&locale=en&layout=compact" alt="durgeshs25-mle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshs25-mle&show_icons=true&locale=en" alt="durgeshs25-mle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshs25-mle&" alt="durgeshs25-mle" /></p>
